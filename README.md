@@ -35,3 +35,4 @@ The dataset is composed of the following:
 * KAVA    
 * KCS    
 * KDA    
+* KICKS    
