@@ -37,3 +37,4 @@ The dataset is composed of the following:
 * KDA    
 * KICKS    
 * KING    
+* KLAN    
