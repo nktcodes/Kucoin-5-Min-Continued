@@ -38,3 +38,4 @@ The dataset is composed of the following:
 * KICKS    
 * KING    
 * KLAN    
+* KLUB    
