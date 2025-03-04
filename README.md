@@ -59,3 +59,4 @@ The dataset is composed of the following:
 * LIKE    
 * LINA    
 * LINK    
+* LITH    
