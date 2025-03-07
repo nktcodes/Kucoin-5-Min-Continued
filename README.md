@@ -62,3 +62,4 @@ The dataset is composed of the following:
 * LITH    
 * LIT    
 * LMR     
+* LMWR    
