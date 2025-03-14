@@ -68,4 +68,5 @@ The dataset is composed of the following:
 * LOOKS    
 * LOOM 
 * LPOOL    
-* LPT      
+* LPT    
+* LQTY      
