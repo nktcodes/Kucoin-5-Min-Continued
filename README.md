@@ -71,3 +71,4 @@ The dataset is composed of the following:
 * LPT    
 * LQTY      
 * LRC     
+* LSK   
