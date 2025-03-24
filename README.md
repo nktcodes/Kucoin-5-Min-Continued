@@ -79,3 +79,4 @@ The dataset is composed of the following:
 * LUNC   
 * LYM    
 * LYX     
+* MAGIC    
