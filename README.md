@@ -81,3 +81,4 @@ The dataset is composed of the following:
 * LYX     
 * MAGIC    
 * MAHA    
+* MANA    
