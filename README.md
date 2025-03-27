@@ -82,3 +82,4 @@ The dataset is composed of the following:
 * MAGIC    
 * MAHA    
 * MANA    
+* MANTA    
