@@ -85,3 +85,4 @@ The dataset is composed of the following:
 * MANTA    
 * MAN    
 * MAP    
+* MASK     
