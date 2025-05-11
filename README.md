@@ -127,3 +127,4 @@ The dataset is composed of the following:
 * NEO    
 * NETVR    
 * NFP    
+* NFT     
