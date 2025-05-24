@@ -140,3 +140,4 @@ The dataset is composed of the following:
 * NTRN    
 * NUM    
 * NWC     
+* NXRA     
