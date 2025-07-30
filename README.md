@@ -207,3 +207,4 @@ The dataset is composed of the following:
 * PUSH    
 * PYR    
 * PYTH    
+* PYUSD    
