@@ -208,3 +208,4 @@ The dataset is composed of the following:
 * PYR    
 * PYTH    
 * PYUSD    
+* PZD    
