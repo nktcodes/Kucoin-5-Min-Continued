@@ -209,3 +209,4 @@ The dataset is composed of the following:
 * PYTH    
 * PYUSD    
 * PZD    
+* QI    
