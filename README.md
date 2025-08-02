@@ -210,3 +210,4 @@ The dataset is composed of the following:
 * PYUSD    
 * PZD    
 * QI    
+* QKC    
