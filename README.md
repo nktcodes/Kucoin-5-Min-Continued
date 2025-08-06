@@ -214,3 +214,4 @@ The dataset is composed of the following:
 * QNT     
 * QORPO   
 * QRDO    
+* QUICK    
