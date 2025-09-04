@@ -243,3 +243,4 @@ The dataset is composed of the following:
 * RUNE    
 * RVN    
 * SAND     
+* SAROS    
