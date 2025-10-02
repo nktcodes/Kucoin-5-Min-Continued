@@ -271,3 +271,4 @@ The dataset is composed of the following:
 * SLN     
 * SLP     
 * SNS     
+* SNX    
