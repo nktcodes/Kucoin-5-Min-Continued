@@ -272,3 +272,4 @@ The dataset is composed of the following:
 * SLP     
 * SNS     
 * SNX    
+* SOLR     
