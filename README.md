@@ -274,3 +274,4 @@ The dataset is composed of the following:
 * SNX    
 * SOLR     
 * SOLS    
+* SOL    
