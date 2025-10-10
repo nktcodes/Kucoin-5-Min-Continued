@@ -279,3 +279,4 @@ The dataset is composed of the following:
 * SON    
 * SOUL     
 * SPA      
+* SQUAD    
