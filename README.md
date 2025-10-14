@@ -283,3 +283,4 @@ The dataset is composed of the following:
 * SRBP    
 * SSV       
 * STARLY    
+* STC     
