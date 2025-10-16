@@ -285,3 +285,4 @@ The dataset is composed of the following:
 * STARLY    
 * STC     
 * STG     
+* STND    
