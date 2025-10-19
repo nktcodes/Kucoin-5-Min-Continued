@@ -288,3 +288,4 @@ The dataset is composed of the following:
 * STND    
 * STORE     
 * STORJ    
+* STRAX     
