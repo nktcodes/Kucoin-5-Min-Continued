@@ -290,3 +290,4 @@ The dataset is composed of the following:
 * STORJ    
 * STRAX     
 * STRIKE     
+* STRK     
