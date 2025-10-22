@@ -291,3 +291,4 @@ The dataset is composed of the following:
 * STRAX     
 * STRIKE     
 * STRK     
+* STX    
