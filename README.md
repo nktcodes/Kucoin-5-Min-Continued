@@ -297,3 +297,4 @@ The dataset is composed of the following:
 * SUI     
 * SUKU     
 * SUN      
+* SUPER     
