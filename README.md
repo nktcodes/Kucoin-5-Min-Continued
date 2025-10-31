@@ -300,3 +300,4 @@ The dataset is composed of the following:
 * SUPER     
 * SUSHI     
 * SUTER     
+* SWASH     
