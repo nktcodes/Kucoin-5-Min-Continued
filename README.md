@@ -347,3 +347,4 @@ The dataset is composed of the following:
 * UPO     
 * UQC     
 * USDC    
+* USDD     
