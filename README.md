@@ -348,3 +348,4 @@ The dataset is composed of the following:
 * UQC     
 * USDC    
 * USDD     
+* USDJ    
