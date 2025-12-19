@@ -349,3 +349,4 @@ The dataset is composed of the following:
 * USDC    
 * USDD     
 * USDJ    
+* USDP    
