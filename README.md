@@ -371,3 +371,4 @@ The dataset is composed of the following:
 * VXV     
 * WAVES     
 * WAX     
+* WBTC     
