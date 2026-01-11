@@ -372,3 +372,4 @@ The dataset is composed of the following:
 * WAVES     
 * WAX     
 * WBTC     
+* WELL     
