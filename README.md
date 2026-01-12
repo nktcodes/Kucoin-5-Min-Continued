@@ -373,3 +373,4 @@ The dataset is composed of the following:
 * WAX     
 * WBTC     
 * WELL     
+* WEMIX     
