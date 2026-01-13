@@ -374,3 +374,4 @@ The dataset is composed of the following:
 * WBTC     
 * WELL     
 * WEMIX     
+* WEN     
