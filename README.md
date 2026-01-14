@@ -375,3 +375,4 @@ The dataset is composed of the following:
 * WELL     
 * WEMIX     
 * WEN     
+* WEST     
