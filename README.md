@@ -376,3 +376,4 @@ The dataset is composed of the following:
 * WEMIX     
 * WEN     
 * WEST     
+* WHALE     
