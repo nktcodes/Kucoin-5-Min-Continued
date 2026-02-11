@@ -403,3 +403,4 @@ The dataset is composed of the following:
 * XETA    
 * XLM     
 * XMR     
+* XNL    
