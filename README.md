@@ -412,4 +412,5 @@ The dataset is composed of the following:
 * XRP     
 * XTAG     
 * XTM    
-* XTZ       
+* XTZ     
+* XWG       
