@@ -414,4 +414,5 @@ The dataset is composed of the following:
 * XTM    
 * XTZ     
 * XWG     
-* XYM       
+* XYM     
+* XYO      
